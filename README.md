@@ -328,6 +328,7 @@ git pull
 - [Benson](https://github.com/Peh-Suan/)
 - [Yinching](https://github.com/ChangYC41)
 - [Patrick Yihong Wu](https://github.com/patrickwoolf/)
+- [Prin. Mia](https://github.com/miaykc)
 
 # 7. Resources
 
